@@ -13,7 +13,7 @@
 1. [Flutter Roadmap](https://github.com/Tarikul711/flutter-development-roadmap)
 2. [Android Roadmap](https://github.com/olexale/flutter_roadmap)
 3. [IOS Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
-4. [React Native](https://github.com/adam-golab/react-developer-roadmap)
+4. [React Native Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## Atenção
 
